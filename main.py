@@ -1,6 +1,3 @@
-from _typeshed import Self
-
-
 class Asiento:
     def __init__(self, color, precio, registro):
         self.color = color
